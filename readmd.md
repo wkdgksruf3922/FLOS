@@ -1,0 +1,108 @@
+# 🌿 FLOS (플로스)
+
+> 꽃으로 일상을 플러스하는 감성 플로리스트 브랜드 웹 프로젝트
+>  
+
+---
+
+## ✨ Overview
+
+FLOS는 꽃을 단순한 상품이 아닌
+
+“감정과 일상을 연결하는 경험”으로 재해석한 브랜드 웹 프로젝트입니다.
+
+사용자가 상황과 감정에 맞는 꽃을 자연스럽게 선택할 수 있도록
+
+감성적인 UI/UX 흐름을 중심으로 설계했습니다.
+
+---
+
+## 🎯 Project Goal
+
+- 꽃을 “감정 경험”으로 확장하기
+- 직관적이고 감성적인 사용자 흐름 만들기
+- 브랜드 스토리가 자연스럽게 전달되는 구조 설계
+- 미니멀하고 여백 중심의 디자인 구현 
+
+---
+
+## 🧠 Concept
+
+- 키워드: 감정 / 일상 / 선물 / 연결 / +
+- “꽃이 일상을 + 해준다”는 브랜드 메시지
+- 감정 기반 큐레이션 구조
+- 따뜻하고 자연스러운 감성 UI
+
+---
+
+## 🧩 Features
+
+- 감정 / 상황 기반 꽃 추천 UI
+- 제품 카드형 인터랙션
+- 스크롤 기반 섹션 전환
+- 브랜드 스토리 페이지
+- 반응형 웹 디자인
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Swiper
+- Figma (UI/UX 디자인)
+
+---
+
+## 📁 Project Structure
+
+```bash
+└── FLOS_LANDING/
+    ├── assets/
+    │   ├── fonts/
+    │   └── images/
+    ├── css/
+    │   ├── vendor/
+    │   │   ├── .gitkeep
+    │   │   ├── bootstrap.min.css
+    │   │   └── swiper-bundle.min.css
+    │   ├── main.css
+    │   └── section.css
+    ├── js/
+    │   ├── vendor/
+    │   │   ├── .gitkeep
+    │   │   ├── bootstrap.bundle.min.js
+    │   │   ├── gsap.min.js
+    │   │   └── swiper-bundle.min.js
+    │   ├── main.js
+    │   ├── motion.js
+    │   └── slider.js
+    ├── .gitignore
+    ├── index.html
+    └── readmd.md
+```
+
+---
+
+## 🎨 Design Direction
+
+- Soft & Natural tone
+- Soft Green / Yellow / brown 계열
+- 감성적인 타이포그래피
+
+---
+
+## 💡 Key Interaction Ideas
+
+- hover 시 꽃 정보 카드 등장
+- 스크롤에 따른 섹션 전환
+- 버튼 클릭 시 미묘한 피드백 애니메이션
+- 감정 선택 → 추천 꽃 연결
+
+---
+
+## 🖤 Author
+
+- Designer / Developer : 장한결, 주은실, 김주영
+- Project: FLOS Brand Website
